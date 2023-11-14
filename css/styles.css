@@ -16,6 +16,7 @@ button{
 
 body {
     font-family:'Roboto', sans-serif;
+    color: #2E2F42;
 }
 
 
@@ -67,8 +68,36 @@ letter-spacing: 0.02em;
 .contacts:focus {
     color: var(--OCEAN, #404BBF);
 }
-.push:active {
-    border-radius: 2px;
-background: var(--OCEAN, #404BBF);
 
+.hero {
+    color: var(--WHITE, #FFF);
+text-align: center;
+/* Header 1 */
+font-family: Roboto;
+font-size: 56px;
+
+font-weight: 700;
+line-height: 1.07; /* 107.143% */
+letter-spacing: 0.02em;
+background-color: var(--NAVY-BLUE, #2E2F42);
+}
+
+.order {
+    
+/* Button Text */
+
+font-size: 16px;
+
+font-weight: 500;
+line-height: 1.5; /* 150% */
+letter-spacing: 0.04em;
+color: var(--WHITE, #FFF);
+border-radius: 4px;
+background: var(--IRIS, #4D5AE5);
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+.push {
+    border-radius: 4px;
+background: var(--OCEAN, #404BBF);
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
