@@ -114,7 +114,15 @@ color: var(--WHITE, #FFF);
 background-color: #4D5AE5;
 
 }
-.push {
+
+
+
+
+
+
+.push:hover, 
+.push:focus
+{
    
 background: var(--OCEAN, #404BBF);
 
