@@ -111,7 +111,7 @@ line-height: 1.5; /* 150% */
 letter-spacing: 0.04em;
 color: var(--WHITE, #FFF);
 
-background: var(--IRIS, #4D5AE5);
+background-color: #4D5AE5;
 
 }
 .push {
