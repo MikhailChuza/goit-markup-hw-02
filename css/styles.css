@@ -174,13 +174,10 @@ color: var(--NAVY-BLUE, #2E2F42);}
 .section-layers {
     background: var(--CLOUD, #F4F4FD);
 }
+
+
 .profession {
-   
-
-
-
-
-font-size: 16px;
+   font-size: 16px;
 
 font-weight: 400;
 line-height: 1.5; /* 150% */
@@ -190,6 +187,9 @@ letter-spacing: 0.02em;
  .photo-layer {
     background: var(--WHITE, #FFF);
  }
+ 
+ 
+ 
  .portfolio {
     
 
