@@ -23,7 +23,7 @@ body {
 
 
 
-.logo-words {
+.logo-word {
     color: #2E2F42;
 }
 
@@ -229,16 +229,15 @@ color: var(--NAVY-BLUE, #2E2F42);}
     background: var(--NAVY-BLUE, #2E2F42);
 }
 
-.logo-word1 {
+.logo-white {
     
 font-family: Raleway;
 font-size: 18px;
-
 font-weight: 700;
 line-height: 1.16; /* 116.667% */
 letter-spacing: 0.03em;
-
-color: var(--CLOUD, #F4F4FD);}
+color: #F4F4FD;
+}
 
 .text-solution {
     
