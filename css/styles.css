@@ -148,7 +148,7 @@ color: var(--SLATE, #434455);}
     
 text-align: center;
 
-
+text-transform: capitalize;
 
 font-size: 36px;
 
@@ -171,7 +171,7 @@ line-height: 1.2; /* 120% */
 letter-spacing: 0.02em;
 color: var(--NAVY-BLUE, #2E2F42);}
 
-.section-layer1 {
+.section-layers {
     background: var(--CLOUD, #F4F4FD);
 }
 .profession {
@@ -193,7 +193,7 @@ letter-spacing: 0.02em;
  .portfolio {
     
 
-
+text-transform: capitalize;
 
 
 font-size: 36px;
