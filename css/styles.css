@@ -23,7 +23,7 @@ body {
 
 
 
-.logo-word {
+.logo-words {
     color: #2E2F42;
 }
 
@@ -225,7 +225,7 @@ color: var(--NAVY-BLUE, #2E2F42);}
     color: var(--SLATE, #434455);}
 
 /* footer */
-.layer2 {
+.layers {
     background: var(--NAVY-BLUE, #2E2F42);
 }
 
