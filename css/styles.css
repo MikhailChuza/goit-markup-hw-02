@@ -11,14 +11,13 @@ button{
 }
 
 
-.main-layer {
-    background: #FFF;
-}
+
 
 
 body {
-    font-family:'Roboto', sans-serif;
-    color: #2E2F42;
+    font-family: "Roboto" ,sans-serif;
+    color: #434455;
+    background-color: #FFFFFF
 }
 
 
@@ -29,8 +28,7 @@ body {
 
 .logo {
     
-        font-family:'Raleway',
-            sans-serif;
+        font-family:'Raleway',sans-serif;
         font-size: 18px;
         
         font-weight: 700;
